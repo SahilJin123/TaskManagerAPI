@@ -25,7 +25,7 @@ The Task Manager API is structured into several Python modules, each with a spec
 Before running the application, install all dependencies. (Ensure `requirements.txt` is populated with necessary packages such as Flask, Flask-SQLAlchemy, Flask-JWT-Extended, bcrypt, etc.)
 
 ```Command Line
-pip install -r requirmenements.txt,
+pip install -r requirmenements.txt
 ```
 
 ---
